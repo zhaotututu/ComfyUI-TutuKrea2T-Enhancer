@@ -11,3 +11,7 @@ authors = [{ name = "Tutu" }]
 Repository = "https://github.com/zhaotututu/ComfyUI-TutuKrea2T-Enhancer"
 Issues = "https://github.com/zhaotututu/ComfyUI-TutuKrea2T-Enhancer/issues"
 Upstream = "https://github.com/capitan01R/ComfyUI-Krea2T-Enhancer"
+
+[tool.ruff.lint]
+# Debug output is an intentional user-facing control inherited from upstream.
+ignore = ["T201"]
