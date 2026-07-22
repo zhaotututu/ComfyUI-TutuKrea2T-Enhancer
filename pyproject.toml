@@ -1,0 +1,13 @@
+[project]
+name = "ComfyUI-TutuKrea2T-Enhancer"
+description = "Tutu-maintained Krea2 Turbo prompt-adherence enhancer for ComfyUI"
+version = "1.0.0"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [{ name = "Tutu" }]
+
+[project.urls]
+Repository = "https://github.com/zhaotututu/ComfyUI-TutuKrea2T-Enhancer"
+Issues = "https://github.com/zhaotututu/ComfyUI-TutuKrea2T-Enhancer/issues"
+Upstream = "https://github.com/capitan01R/ComfyUI-Krea2T-Enhancer"
